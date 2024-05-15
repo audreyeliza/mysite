@@ -76,6 +76,10 @@ h1{
     margin: auto;
 }
 
+.center {
+    
+}
+
 .widget{
     height: 80vh;
     background-color: rgba(0,0,0,0.4); 
@@ -99,6 +103,12 @@ h1{
     max-height: 58vh;
     min-height: 25vh;
     border-radius: 10px;
+}
+
+.weekday {
+    width: 20vw;
+    height: 6vh;
+    border-radius: 4px;
 }
 
 
